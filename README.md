@@ -14,7 +14,11 @@ Abiotic Factor 한국어화
 |:---:|:---:|:---|
 |0.9.1.11753|1.0.0||
 
-## 4. 기여자 목록
+## 4. 문의
+ - 패치에 문제가 있을 경우, 아래 디스코드에서 제보해주세요!
+ - https://discord.gg/B39kg26XFf
+
+## 5. 기여자 목록
  - Dr. 하늘빛 하늘
     - 번역 담당  
     <img src = "img/men/skybluesky.png" width="400px">  
