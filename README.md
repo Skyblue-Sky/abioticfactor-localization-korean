@@ -18,3 +18,12 @@ Abiotic Factor 한국어화
  - Dr. 하늘빛 하늘
     - 번역 담당  
     <img src = "img/men/skybluesky.png" width="400px">  
+ - Dr. 볼펜촉
+    - 번역 담당  
+    <img src = "img/men/penpoint.png" width="400px">  
+ - Dr. yeshjho
+    - 기술 담당  
+    <img src = "img/men/yeshjho.png" width="400px">  
+ - Dr. 시에스타
+    - 이미지 담당  
+    <img src = "img/men/siesta.png" width="400px">  
